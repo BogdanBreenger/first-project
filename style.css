@@ -1,3 +1,7 @@
+@font-face {
+    font-family: Best Font Ever;
+    src: url();
+}
 p {
     width: 30px;
 }
